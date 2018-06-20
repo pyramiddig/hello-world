@@ -1,2 +1,4 @@
 # hello-world
-Generic repo for stuff
+Always ask: 
+•	What is the impact of what we designed? 
+•	What is it not doing for our customers
